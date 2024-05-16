@@ -1,2 +1,5 @@
-# Java-basic
-Samling av Java-koder for oppslag
+# Basic Java
+Samling av Javakoder for oppslag
+
+
+## Enkel klasse
